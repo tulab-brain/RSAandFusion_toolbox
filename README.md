@@ -77,7 +77,7 @@ We welcome and appreciate contributions! If you have any questions, suggestions,
 
 If you use this toolbox in your research, please cite:
 
-Ruidi Wang. (2024). *Representational Similarity Analysis & Multimodal Fusion Toolbox (RSA & Fusion Toolbox)* (Version X.X) [Computer software]. Institute of Psychology, Chinese Academy of Sciences.
+Ruidi Wang. (2024). *Representational Similarity Analysis & Multimodal Fusion Toolbox (RSA & Fusion Toolbox)* (Version 2.1) [Computer software]. Institute of Psychology, Chinese Academy of Sciences.
 
 ## 📄 License
 
